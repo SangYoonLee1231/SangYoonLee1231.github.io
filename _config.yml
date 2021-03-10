@@ -16,9 +16,9 @@ defaults:
 
 title: NekTa
 name: SangYoon Lee
-description: Soli Deo Gloria
+description: I'm not Chinese. I'm Korean.
 github: https://github.com/SangYoonLee1231
-rss: false
+rss: true
 
 plugins:
   - rouge
