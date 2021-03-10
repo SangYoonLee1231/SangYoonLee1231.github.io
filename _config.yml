@@ -14,12 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
-
-github: https://github.com/showzeng/Minimalism
-rss: true
+title: NekTa
+name: SangYoon Lee
+description: Soli Deo Gloria
+github: https://github.com/SangYoonLee1231
+rss: false
 
 plugins:
   - rouge
