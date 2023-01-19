@@ -42,14 +42,30 @@ author:
   # Used by `jekyll-feed`:
   name: SangYoon Lee
   email: sylagape1231@gmail.com
+  picture: /assets/img/me.jpg
+  social:
+    email: sylagape1231@gmail.com
+    github: https://github.com/SangYoonLee1231
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title: Blog
-    url: /blog/
-  - title: Documentation
+  - title: Experience
+    url: /experience/
+  - title: Game Development
+    url: /game-development/
+  - title: Computer Science
+    url: /cs/
+  - title: ERROR Note
+    url: /error/
+  - title: PS Note
+    url: /ps/
+  - title: "@TIL"
+    url: https://github.com/SangYoonLee1231/TIL
+  - title: Etc
+    url: /etc/
+  - title: Jekyll Theme Documentation
     url: /docs/
   - title: About
     url: /about/
@@ -326,6 +342,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-avatar
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
