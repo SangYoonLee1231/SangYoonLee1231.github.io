@@ -58,13 +58,13 @@ menu:
   - title: Computer Science
     url: /cs/
   - title: ERROR Note
-    url: /error/
+    url: /error-note/
   - title: PS Note
-    url: /ps/
+    url: /ps-note/
   - title: "@TIL"
     url: https://github.com/SangYoonLee1231/TIL
   - title: Etc
-    url: /etc/
+    url: /etcs/
   - title: Jekyll Theme Documentation
     url: /docs/
   - title: About
